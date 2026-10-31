@@ -1,6 +1,6 @@
 # Deploying shanevaldez.com
 
-The site is a single static page (`index.html` plus `fonts/` and icons), hosted on
+The site is a single static page (`index.html` plus icons), hosted on
 GitHub Pages from the `main` branch of `acific/shanevaldez.com`. The `CNAME`
 file tells Pages to serve it at shanevaldez.com.
 
